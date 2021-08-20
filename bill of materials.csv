@@ -1,0 +1,13 @@
+RefDes,Name,Pattern,Quantity,Manufacturer
+C1,"870025174006 - 470 µF, 6.3 V Polymer Aluminium Electrolytic Capacitor",3.5mm Pin Spacing / 8.5mm Diameter/ 12mm Height,1,WURTH ELEKTRONIK
+"C2, C3",100nF SMD Ceramic Capacitor,603,2,
+F1,BK1-H15-V-1  5 x 20mm Fuseholder,,1,BUSSMANN BY EATON
+J1,Solder Bridge,,1,
+J3,3 Pin 2.54mm Header,,1,
+"R1, R3",10K SMD Resistor,603,2,
+R4,150R SMD Resistor,603,1,
+"S1, S2",EVQPT9A15 Tactile Switch,,2,PANASONIC
+"TP1, TP3",42802-1  PCB Terminal,,2,AMP - TE CONNECTIVITY
+U1,ESP32-WROOM-32U WiFi Module,,1,
+U2,TMPS 03-103  AC/DC PCB Mount Power Supply,,1,TRACOPOWER
+U3,4 Pin 2.54mm Header,,1,
